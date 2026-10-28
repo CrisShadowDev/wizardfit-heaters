@@ -1,0 +1,31 @@
+{
+  "store": "WizardFit Heaters & Cozy Home",
+  "tier": "Semi-fast: home premium",
+  "products": [
+    {
+      "name": "Cozy Room Heater",
+      "desc": "Compact, safe, quiet.",
+      "price_planning": "$89"
+    },
+    {
+      "name": "Heated Throw",
+      "desc": "Heated blanket, washable cover.",
+      "price_planning": "$99"
+    },
+    {
+      "name": "Hand Warmer Duo",
+      "desc": "Rechargeable hand warmers.",
+      "price_planning": "$39"
+    },
+    {
+      "name": "Foot Warmer Pad",
+      "desc": "Under-desk foot warmer.",
+      "price_planning": "$49"
+    },
+    {
+      "name": "Cozy Home Bundle",
+      "desc": "Throw + hand warmers.",
+      "price_planning": "$119"
+    }
+  ]
+}
